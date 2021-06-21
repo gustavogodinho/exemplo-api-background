@@ -1,0 +1,12 @@
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\bin\Debug\netcoreapp3.1\WebApiBackgroundServices.Repository.deps.json
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\bin\Debug\netcoreapp3.1\WebApiBackgroundServices.Repository.dll
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\bin\Debug\netcoreapp3.1\WebApiBackgroundServices.Repository.pdb
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\obj\Debug\netcoreapp3.1\WebApiBackgroundServices.Repository.AssemblyInfoInputs.cache
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\obj\Debug\netcoreapp3.1\WebApiBackgroundServices.Repository.AssemblyInfo.cs
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\obj\Debug\netcoreapp3.1\WebApiBackgroundServices.Repository.csproj.CoreCompileInputs.cache
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\obj\Debug\netcoreapp3.1\WebApiBackgroundServices.Repository.dll
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\obj\Debug\netcoreapp3.1\WebApiBackgroundServices.Repository.pdb
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\obj\Debug\netcoreapp3.1\WebApiBackgroundServices.Repository.csprojAssemblyReference.cache
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\bin\Debug\netcoreapp3.1\WebApiBackgroundServices.Domain.dll
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\bin\Debug\netcoreapp3.1\WebApiBackgroundServices.Domain.pdb
+C:\Users\gusta\source\repos\WebApiBackgroundServices\WebApiBackgroundServices.Repository\obj\Debug\netcoreapp3.1\WebApiBackgroundServices.Repository.csproj.CopyComplete

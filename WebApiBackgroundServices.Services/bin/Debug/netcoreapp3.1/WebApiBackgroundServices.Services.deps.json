@@ -1,0 +1,152 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "WebApiBackgroundServices.Services/1.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Hosting.Abstractions": "3.1.16",
+          "WebApiBackgroundServices.Repository": "1.0.0"
+        },
+        "runtime": {
+          "WebApiBackgroundServices.Services.dll": {}
+        }
+      },
+      "Microsoft.Extensions.Configuration.Abstractions/3.1.16": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.16"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Configuration.Abstractions.dll": {
+            "assemblyVersion": "3.1.16.0",
+            "fileVersion": "3.100.1621.26206"
+          }
+        }
+      },
+      "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.16": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.DependencyInjection.Abstractions.dll": {
+            "assemblyVersion": "3.1.16.0",
+            "fileVersion": "3.100.1621.26206"
+          }
+        }
+      },
+      "Microsoft.Extensions.FileProviders.Abstractions/3.1.16": {
+        "dependencies": {
+          "Microsoft.Extensions.Primitives": "3.1.16"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.FileProviders.Abstractions.dll": {
+            "assemblyVersion": "3.1.16.0",
+            "fileVersion": "3.100.1621.26206"
+          }
+        }
+      },
+      "Microsoft.Extensions.Hosting.Abstractions/3.1.16": {
+        "dependencies": {
+          "Microsoft.Extensions.Configuration.Abstractions": "3.1.16",
+          "Microsoft.Extensions.DependencyInjection.Abstractions": "3.1.16",
+          "Microsoft.Extensions.FileProviders.Abstractions": "3.1.16",
+          "Microsoft.Extensions.Logging.Abstractions": "3.1.16"
+        },
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Hosting.Abstractions.dll": {
+            "assemblyVersion": "3.1.16.0",
+            "fileVersion": "3.100.1621.26206"
+          }
+        }
+      },
+      "Microsoft.Extensions.Logging.Abstractions/3.1.16": {
+        "runtime": {
+          "lib/netstandard2.0/Microsoft.Extensions.Logging.Abstractions.dll": {
+            "assemblyVersion": "3.1.16.0",
+            "fileVersion": "3.100.1621.26206"
+          }
+        }
+      },
+      "Microsoft.Extensions.Primitives/3.1.16": {
+        "runtime": {
+          "lib/netcoreapp3.1/Microsoft.Extensions.Primitives.dll": {
+            "assemblyVersion": "3.1.16.0",
+            "fileVersion": "3.100.1621.26206"
+          }
+        }
+      },
+      "WebApiBackgroundServices.Domain/1.0.0": {
+        "runtime": {
+          "WebApiBackgroundServices.Domain.dll": {}
+        }
+      },
+      "WebApiBackgroundServices.Repository/1.0.0": {
+        "dependencies": {
+          "WebApiBackgroundServices.Domain": "1.0.0"
+        },
+        "runtime": {
+          "WebApiBackgroundServices.Repository.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "WebApiBackgroundServices.Services/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Microsoft.Extensions.Configuration.Abstractions/3.1.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-TcYhNw4N11FeT2wNmN5gAUjthj6MtObBaFOZ3zH+DkMPc2L/Dn/6fbCGzdmOj7R1QoP9TAJrjfkW3wZb/WlGEw==",
+      "path": "microsoft.extensions.configuration.abstractions/3.1.16",
+      "hashPath": "microsoft.extensions.configuration.abstractions.3.1.16.nupkg.sha512"
+    },
+    "Microsoft.Extensions.DependencyInjection.Abstractions/3.1.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pFCBSw5MJiuucZAG+IrJLcQd4c7JIgc/7t6Mm6Q31wjEeamKQ+r7p1Aw21IHJm5KHqLNG/UdeaIt6ffullkC0Q==",
+      "path": "microsoft.extensions.dependencyinjection.abstractions/3.1.16",
+      "hashPath": "microsoft.extensions.dependencyinjection.abstractions.3.1.16.nupkg.sha512"
+    },
+    "Microsoft.Extensions.FileProviders.Abstractions/3.1.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-SqUekOgqd+DMRuRS1bl2yZ3nPvWquAUjrHo1dDk9xheRi5nERXTAfzBBcf3NJkJRqdPeDHAmJLTFtKJHPIJ0ng==",
+      "path": "microsoft.extensions.fileproviders.abstractions/3.1.16",
+      "hashPath": "microsoft.extensions.fileproviders.abstractions.3.1.16.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Hosting.Abstractions/3.1.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-pNIPeVnw83E5auIDGo5R09p51twoxTCyKKdt3FSkj2XfGITT94hGo9Q9e695BSg16XIBxa1a4DTlpq/fORlT0Q==",
+      "path": "microsoft.extensions.hosting.abstractions/3.1.16",
+      "hashPath": "microsoft.extensions.hosting.abstractions.3.1.16.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Logging.Abstractions/3.1.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-ltX0/yOxdEdnvHqTWjBeszga5kTjFHCwekoNX5DcAlSdoRPngJ13VgqFUeQyIZByfTO6972Y4dB6/YmXTeZAIA==",
+      "path": "microsoft.extensions.logging.abstractions/3.1.16",
+      "hashPath": "microsoft.extensions.logging.abstractions.3.1.16.nupkg.sha512"
+    },
+    "Microsoft.Extensions.Primitives/3.1.16": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-mqE90xTSlTdQmk3e7+4L00PbBYB+Ox+S5IJ1P+cavlxoQKBrDf2oLdltWIYHa8GjN8xrAoxwfuFJjFnOWSWdDw==",
+      "path": "microsoft.extensions.primitives/3.1.16",
+      "hashPath": "microsoft.extensions.primitives.3.1.16.nupkg.sha512"
+    },
+    "WebApiBackgroundServices.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "WebApiBackgroundServices.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
